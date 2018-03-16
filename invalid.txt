@@ -1,0 +1,11 @@
+zz|1|this|code|
+SA|1|this
+ma|2|valid keyword c++|public:protected:private:awesome:test:code:best|a
+# this is a comment
+	
+ 
+
+
+TF|3|Josiah is the worst person imaginable|E
+sa|100|test code|100
+sa|0|huh no difficulty|yes

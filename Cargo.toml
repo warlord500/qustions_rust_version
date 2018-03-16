@@ -1,0 +1,16 @@
+[package]
+name = "questions_rust_version"
+version = "0.1.0"
+authors = ["jadon belezos <jjbelezos@gmail.com>"]
+
+[dependencies]
+frozen = "1.0.0"
+
+[lib]
+name = "mylib"
+path = "src/lib.rs"
+
+[[bin]]
+name = "mybin"
+path = "src/main.rs"
+doc = false
